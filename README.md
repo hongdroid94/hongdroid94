@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-<!-- kotlin -->
-<a href="#" onclick="return false;" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=ffffff"/></a>
+<div style="float: left;">
+  <!-- kotlin -->
+  <a href="#" onclick="return false;" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=ffffff"/></a>
 
-<!-- firebase -->
-<a href="#" onclick="return false;" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=ffffff"/></a>
+  <!-- firebase -->
+  <a href="#" onclick="return false;" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=ffffff"/></a>
+</div>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongdroid94&show_icons=true&theme=blueberry)
 
