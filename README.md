@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 <div style="float: left;">
-
+ 
   <!-- visual studio -->
   <a href="#" onclick="return false;" target="_blank"><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual studio&logoColor=ffffff"/></a>
   
