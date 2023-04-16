@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 
 -->
 
-  <!-- visual studio -->
+
+  
+<div style="float: left; clear: both;">
+    <!-- visual studio -->
   <a href="#" onclick="return false;" target="_blank"><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual studio&logoColor=ffffff"/></a>
   
   <!-- visual studio code -->
@@ -49,9 +52,6 @@ Here are some ideas to get you started:
 
   <!-- firebase -->
   <a href="#" onclick="return false;" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=ffffff"/></a>
-  
-<div style="float: left;">
- 
 
 </div>
 
