@@ -1,5 +1,7 @@
 ### Hi I'm Hongdroid 👋
 
+## 🤔 It's something I've experienced and I'm interested in
+
 <!--
 **hongdroid94/hongdroid94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -108,6 +110,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=ffffff"/>
 
 </div>
+
+
+</br>
+</br>
+
+<hr>
+
+</br>
+</br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongdroid94&show_icons=true&theme=blueberry)
