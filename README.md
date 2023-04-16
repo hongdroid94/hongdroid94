@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <!-- visual studio -->
   <a href="#" onclick="return false;" target="_blank"><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual studio&logoColor=ffffff"/></a>
   
-    <!-- visual studio code -->
+  <!-- visual studio code -->
   <a href="#" onclick="return false;" target="_blank"><img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=ffffff"/></a>
 
   <!-- android -->
