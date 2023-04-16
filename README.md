@@ -73,8 +73,8 @@ Here are some ideas to get you started:
   <!-- Google Admob -->  
   <img src="https://img.shields.io/badge/Google Admob-EA4335?style=flat&logo=Google Admob&logoColor=ffffff"/> 
   
-  <!-- Google Sense -->
-  <img src="https://img.shields.io/badge/Google Sense-4285F4?style=flat&logo=Google Sense&logoColor=ffffff"/> 
+  <!-- Google Ad Sense -->
+  <img src="https://img.shields.io/badge/Google AdSense-4285F4?style=flat&logo=Google AdSense&logoColor=ffffff"/> 
  
   <!-- Node.js -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=ffffff"/> 
