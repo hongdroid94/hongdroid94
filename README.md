@@ -92,7 +92,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C Language-A8B9CC?style=flat&logo=c&logoColor=ffffff"/>
   
   <!-- c++ -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c++&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=ffffff"/>
 
   <!-- c# -->
   <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=ffffff"/>
