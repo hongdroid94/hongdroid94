@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Hongdroid 👋
 
 <!--
 **hongdroid94/hongdroid94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <a href="#" onclick="return false;" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c++&logoColor=ffffff"/></a>
 
   <!-- c# -->
-  <a href="#" onclick="return false;" target="_blank"><img src="https://img.shields.io/badge/C#-239120?style=flat&logo=C Sharp&logoColor=ffffff"/></a>
+  <a href="#" onclick="return false;" target="_blank"><img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=ffffff"/></a>
   
   <!-- unity -->
   <a href="#" onclick="return false;" target="_blank"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=ffffff"/></a>
